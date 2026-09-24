@@ -11,3 +11,5 @@ users["Rishika@gmail.com"] = "Rishika gour"
 #store (box, "Ankur saini")
 
 print(hash("Ankur@gmail.com"))
+print(hash("John@gmail.com"))
+print(hash("Rishika@gmail.com"))
